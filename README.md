@@ -2,7 +2,7 @@
 
 Trabalho prático da unidade curricular de **Programação Orientada por Objetos (POO)** — Grupo 3.
 
-Sistema de consola em **Java** para gestão de uma frota náutica de um porto operacional marítimo: marinheiros, embarcações (Barcos de Patrulha, Lanchas Rápidas e Navios de Suporte) e as suas missões nas quatro zonas de atuação (Norte, Sul, Este, Oeste).
+Sistema de consola em **Java** para gestão de uma frota náutica de um porto operacional marítimo: marinheiros, embarcações (Navios de Suporte, Lanchas Rápidas e Barcos de Patrulha) e as suas missões nas quatro zonas de atuação (Norte, Sul, Este, Oeste).
 
 ## Estrutura do Projeto
 
